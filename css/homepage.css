@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 100%;
+}
+th, td {
+    border: 1px solid black !important;
+    padding: 5px;
+    border-collapse: collapse;
+    text-align: center !important;
+  }
+.id-col{
+    width: 2%;
+}
+.status-col{
+    width: 10%;
+}
+.todo-col{
+    text-align: left !important;
+    padding-left: 50px !important;
+}
